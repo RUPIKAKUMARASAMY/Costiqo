@@ -1,1 +1,6 @@
-https://github.com/RUPIKAKUMARASAMY/Costiqo/edit/main/admin.py
+from django.contrib import admin
+
+# Register your models here.
+from .models import Product
+
+admin.site.register(Product)
