@@ -1,5 +1,2 @@
-# products_app/admin.py
-from django.contrib import admin
-from .models import Product
+hi this is pavan
 
-admin.site.register(Product)
