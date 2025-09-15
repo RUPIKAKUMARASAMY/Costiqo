@@ -1,2 +1,1 @@
-hi this is pavan
-
+https://github.com/RUPIKAKUMARASAMY/Costiqo/edit/main/admin.py
